@@ -1,7 +1,6 @@
 // src/App.js
 import React, { useState } from 'react';
 import ProductList from './components/ProductList';
-import Cart from './components/Cart';
 import './App.css';
 
 const products = [
